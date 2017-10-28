@@ -1,4 +1,4 @@
-rpi-registers
+shamilton-rpi-registers
 =============
 
 this project contains scripts to automatically
